@@ -26,7 +26,7 @@ I'm enthusiastic about collaborative projects, particularly those centered aroun
 
 ## 📫 Connect with Me
 
-Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/kondwani-nyirenda-907014246/)]. I'm always open to discussions, collaborations, and networking.
+Feel free to reach out and connect with me on [LinkedIn][(https://www.linkedin.com/in/kondwani-nyirenda-907014246/)]. I'm always open to discussions, collaborations, and networking.
 
 ## 🚀 Let's Build the Future Together
 
