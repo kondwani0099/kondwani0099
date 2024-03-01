@@ -44,9 +44,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,opencv,html,css,sass,vscode,github,figma,tailwind,git,azure,cpp,dart,nextjs,c," />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,opencv,html,css,sass,vscode,github,figma,tailwind,git,azure,cpp,dart,nextjs," /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,django,firebase,mongodb,php,mysql,flask" /><br>
-  <img src="https://skillicons.dev/icons?i=github,arduino,swift,pycharm,twailwind ,docker,postman,php,flutter,pandas,git" /> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><br>
+  <img src="https://skillicons.dev/icons?i=github,arduino,swift,pycharm,twailwind ,docker,postman,php,flutter,pandas,c," /> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><br>
   <img src="https://skillicons.dev/icons?i=postgres,sklearn,tensorflow,linux," /><br>
  
   
