@@ -44,11 +44,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,opencv,html,css,sass,vscode,github,figma,tailwind,git," />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,opencv,html,css,sass,vscode,github,figma,tailwind,git,azure,cpp,dart,nextjs,c," />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,django,firebase,mongodb,cpp,php,mysql,flask" /><br>
-  <img src="https://skillicons.dev/icons?i=github,arduino,swift,pycharm,twailwind ,docker,postman,php,flutter,pandas,gitbash" /><br>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres,sklearn,tensorflow,pycharm,linux,opencv,nodejs,azure,cpp,dart,nextjs,c" /><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github,arduino,swift,pycharm,twailwind ,docker,postman,php,flutter,pandas,gitbash" /> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><br>
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres,sklearn,tensorflow,pycharm,linux,opencv,nodejs" /><br>
+ 
   
   
 </div>
