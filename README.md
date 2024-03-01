@@ -44,11 +44,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,opencv,html,css,sass,vscode,github,figma,tailwind,git,azure,cpp,c" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,django,firebase,mongodb,php,mysql,flask" />
-  <img src="https://skillicons.dev/icons?i=github,arduino,swift,pycharm,twailwind ,docker,postman,php,flutter,pandas" />
-  <img src="https://skillicons.dev/icons?i=postgres,sklearn,tensorflow,linux,dart,nextjs" /><br>
-   
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,opencv,html,css,sass,vscode,github,figma,tailwind,git,azure,cpp,c,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,django,firebase,mongodb,php,mysql,flask,tailwind,tensorflow" /><br>
+  <img src="https://skillicons.dev/icons?i=github,arduino,swift,pycharm,docker,postman,flutter,postgres,sklearn,nextjs,dart" /><br>
+  
 </div><br>
 
 
